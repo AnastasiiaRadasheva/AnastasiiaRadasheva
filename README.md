@@ -8,16 +8,18 @@
 ### My Journey
 I am an aspiring software developer building a solid foundation in programming. My goal is to create clean, efficient, and well-structured code.
 
-### 🛠 Tech Stack & Focus
+### Tech Stack & Focus
 > [!IMPORTANT]
 > My main focus is **Python** and **C#**, with a deep dive into OOP and algorithms.
 
-* **Languages:** * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) — OOP, Syntax, Logic.
-    * ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) — Practical assignments and architecture.
+* **Languages:** *
+*  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) — OOP, Syntax, Logic.
+*  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) — Practical assignments and architecture.
 * **Databases:**
-    * ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    * ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-* **Tools:** * ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+* **Tools:** *
+* ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
