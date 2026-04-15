@@ -5,11 +5,6 @@
 
 ### My Journey
 I am an aspiring software developer building a solid foundation in programming. My goal is to create clean, efficient, and well-structured code.
-
-### Tech Stack & Focus
-> [!IMPORTANT]
-> My main focus is **Python** and **C#**, with a deep dive into OOP, algorithms, and Game Dev.
-
 ####  Programming Languages
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) — OOP, Syntax, Logic.
 * ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) — Core logic and architecture.
