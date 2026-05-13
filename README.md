@@ -29,6 +29,3 @@ I am an aspiring software developer building a solid foundation in programming. 
 [<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">](https://anastasiiaradasheva24.thkit.ee/wp/)
 
 ---
-
-> [!CAUTION]
-> **Work in Progress:** I am constantly updating my projects as I learn new technologies!
