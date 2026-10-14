@@ -18,7 +18,7 @@ I am an aspiring software developer building a solid foundation in programming. 
 ####  Game Development
 * ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) — Creating interactive experiences and games.
 
-#### 🗄Databases & Tools
+#### Databases & Tools
 * ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) — Database management.
 * ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) — Local environment for web dev.
 
