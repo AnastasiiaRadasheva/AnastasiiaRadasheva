@@ -59,34 +59,6 @@ My goal is to create clean, efficient, and well-structured code.
 
 ---
 
-## current status
-
-```
-name       : Anastasiia Radasheva
-role       : aspiring software developer
-learning   : Python · C# · Java · Web · Unity
-focus      : OOP, clean code, architecture
-mood       : one more bug and I'm done
-build      : works on my machine ✓
-```
-
----
-
-## workflow
-
-```
-[✓] read the task
-[✓] write the code
-[✓] fix the bugs
-[✓] fix the bugs from fixing the bugs
-[✓] commit
-[ ] become senior developer
-```
-
----
-
-## let's connect
-
 <p align="center">
   <a href="https://www.instagram.com/eqwi_ww2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://anastasiiaradasheva24.thkit.ee/wp/"><img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
