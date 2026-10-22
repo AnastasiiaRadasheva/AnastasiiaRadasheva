@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/status-learning-1b263b?style=flat-square&labelColor=0a1628" />
   <img src="https://img.shields.io/badge/focus-clean%20code-1f3a5f?style=flat-square&labelColor=0a1628" />
   <img src="https://img.shields.io/badge/open%20to-new%20projects-2a4d7a?style=flat-square&labelColor=0a1628" />
-  <img src="https://komarev.com/ghpvc/?username=AnastasiiaRadasheva&color=1f3a5f&style=flat-square&label=profile+views" />
 </p>
 
 <p align="center">
