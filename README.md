@@ -1,3 +1,4 @@
+<img src="./dark_mode.svg" alt="nast neofetch" width="100%">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050a14,40:0a1628,75:0d1b2a,100:1b263b&section=header&text=Junior%20Developer&fontColor=7aa2f7&fontSize=34&fontAlignY=38&desc=Python%20%E2%80%A2%20C%23%20%E2%80%A2%20Java%20%E2%80%A2%20Web%20%E2%80%A2%20Unity&descAlignY=60&descSize=13&animation=twinkling" />
 </p>
