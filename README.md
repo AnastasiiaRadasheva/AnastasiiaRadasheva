@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/open%20to-new%20projects-2a4d7a?style=flat-square&labelColor=0a1628" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1200&pause=3000&color=7AA2F7&multiline=true&repeat=true&width=560&height=190&lines=1+%E2%94%82+const+developer+%3D+%7B;2+%E2%94%82+%C2%A0%C2%A0role%3A+%27junior+developer%27%2C;3+%E2%94%82+%C2%A0%C2%A0languages%3A+%5B%27python%27%2C+%27c%23%27%2C+%27java%27%5D%2C;4+%E2%94%82+%C2%A0%C2%A0web%3A+%5B%27html%27%2C+%27css%27%2C+%27js%27%2C+%27php%27%5D%2C;5+%E2%94%82+%C2%A0%C2%A0gamedev%3A+%27unity%27%2C;6+%E2%94%82+%C2%A0%C2%A0status%3A+%27always+learning%27;7+%E2%94%82+%7D" />
-</p>
-
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=7AA2F7&width=400&lines=%24+cat+stack.json" />
 
