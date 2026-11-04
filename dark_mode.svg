@@ -59,11 +59,11 @@ text,tspan{white-space:pre}
 <text class="txt" font-size="15">
 <tspan x="400" y="78" class="title">nast@github</tspan><tspan class="cc"> -----------------------------------------------</tspan>
 <tspan x="400" y="122" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Windows 11</tspan>
-<tspan x="400" y="144" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">TTHK, Tallinn</tspan>
+<tspan x="400" y="144" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">TechnoTLN, Tallinn</tspan>
 <tspan x="400" y="166" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">learning</tspan>
 <tspan x="400" y="188" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">clean code</tspan>
-<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Visual Studio, VS Code</tspan>
-<tspan x="400" y="254" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">C#, Python, Java, C++</tspan>
+<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Visual Studio</tspan>
+<tspan x="400" y="254" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">C#, Python, C++</tspan>
 <tspan x="400" y="276" class="cc">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, JavaScript, PHP</tspan>
 <tspan x="400" y="298" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">.NET MAUI, ASP.NET Core</tspan>
 <tspan x="400" y="320" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">SQL Server, SQLite, MySQL</tspan>
@@ -73,7 +73,7 @@ text,tspan{white-space:pre}
 <tspan x="400" y="452" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">anastasiiaradasheva24.thkit.ee</tspan>
 <tspan x="400" y="474" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">AnastasiiaRadasheva</tspan>
 <tspan x="400" y="518">- GitHub Stats</tspan><tspan class="cc"> --------------------------------------------</tspan>
-<tspan x="400" y="540" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">46</tspan>
+<tspan x="400" y="540" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">50</tspan>
 <tspan x="400" y="562" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">10</tspan>
 </text>
 </svg>
