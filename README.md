@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050a14,40:0a1628,75:0d1b2a,100:1b263b&section=header&text=Junior%20Developer&fontColor=7aa2f7&fontSize=34&fontAlignY=38&desc=Python%20%E2%80%A2%20C%23%20%E2%80%A2%20Java%20%E2%80%A2%20Web%20%E2%80%A2%20Unity&descAlignY=60&descSize=13&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-learning-1b263b?style=flat-square&labelColor=0a1628" />
-  <img src="https://img.shields.io/badge/focus-clean%20code-1f3a5f?style=flat-square&labelColor=0a1628" />
-  <img src="https://img.shields.io/badge/open%20to-new%20projects-2a4d7a?style=flat-square&labelColor=0a1628" />
-</p>
-
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=7AA2F7&width=400&lines=%24+cat+stack.json" />
 
