@@ -1,8 +1,7 @@
 <img src="./dark_mode.svg" alt="nast neofetch" width="100%">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050a14,40:0a1628,75:0d1b2a,100:1b263b&section=header&text=Junior%20Developer&fontColor=7aa2f7&fontSize=34&fontAlignY=38&desc=Python%20%E2%80%A2%20C%23%20%E2%80%A2%20Java%20%E2%80%A2%20Web%20%E2%80%A2%20Unity&descAlignY=60&descSize=13&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050a14,40:0a1628,75:0d1b2a,100:1b263b&section=header&text=Junior%20Developer&fontColor=7aa2f7&fontSize=34&fontAlignY=38&desc=Python%20%E2%80%A2%20C%23%20%E2%80%A2%20Web%20%E2%80%A2%20Unity&descAlignY=60&descSize=13&animation=twinkling" />
 </p>
-
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=7AA2F7&width=400&lines=%24+cat+stack.json" />
 
@@ -17,9 +16,8 @@
   "tools":     ["Git", "Visual Studio", "XAMPP", "Tinkercad"]
 }
 ```
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,html,css,js,php,nodejs,arduino,unity,sqlite,mysql,git,github,visualstudio,vscode&perline=9&theme=dark" width="520" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js,php,nodejs,arduino,unity,sqlite,mysql,git,github,visualstudio&perline=8&theme=dark" width="480" />
 </p>
 
 ---
