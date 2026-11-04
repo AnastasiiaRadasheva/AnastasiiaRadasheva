@@ -14,13 +14,13 @@
 
 ```json
 {
-  "languages": ["C#", "Python", "Java", "C++ (Arduino)"],
+  "languages": ["C#", "Python", "C++ (Arduino)"],
   "dotnet":    [".NET MAUI", "ASP.NET Core MVC", "Entity Framework Core", "WinForms"],
   "web":       ["HTML5", "CSS3", "JavaScript", "PHP", "Node.js"],
   "gamedev":   ["Unity"],
   "databases": ["SQL Server", "SQLite", "MySQL", "MariaDB"],
   "testing":   ["xUnit", "Selenium"],
-  "tools":     ["Git", "Visual Studio", "VS Code", "XAMPP", "Tinkercad"]
+  "tools":     ["Git", "Visual Studio", "XAMPP", "Tinkercad"]
 }
 ```
 
