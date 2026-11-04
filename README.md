@@ -14,17 +14,34 @@
 
 ```json
 {
-  "languages": ["Python", "C#", "Java"],
-  "web":       ["HTML5", "CSS3", "JavaScript", "PHP"],
+  "languages": ["C#", "Python", "Java", "C++ (Arduino)"],
+  "dotnet":    [".NET MAUI", "ASP.NET Core MVC", "Entity Framework Core", "WinForms"],
+  "web":       ["HTML5", "CSS3", "JavaScript", "PHP", "Node.js"],
   "gamedev":   ["Unity"],
-  "databases": ["MySQL", "MariaDB"],
-  "tools":     ["XAMPP", "Git", "VS Code"]
+  "databases": ["SQL Server", "SQLite", "MySQL", "MariaDB"],
+  "testing":   ["xUnit", "Selenium"],
+  "tools":     ["Git", "Visual Studio", "VS Code", "XAMPP", "Tinkercad"]
 }
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,js,php,unity,mysql,git,github,vscode&perline=12&theme=dark" width="420" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,html,css,js,php,nodejs,arduino,unity,sqlite,mysql,git,github,visualstudio,vscode&perline=9&theme=dark" width="520" />
 </p>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=7AA2F7&width=400&lines=%24+ls+./projects" />
+
+| Project | Stack | About |
+|---|---|---|
+| 🏫 [KeelteKool2](https://github.com/AnastasiiaRadasheva/KeelteKool2) | ASP.NET Core MVC · EF Core · Identity · xUnit | Language school management web app (team project) |
+| 🧩 [LangGuess](https://github.com/AnastasiiaRadasheva/LangGuess) | .NET MAUI · SQLite | Wordle for programming languages |
+| 🏰 [CityExplorer](https://github.com/AnastasiiaRadasheva/CityExplorer) | .NET MAUI · SQLite · MVVM | Tallinn city guide app |
+| 📱 [MauiPractice](https://github.com/AnastasiiaRadasheva/MauiPractice) | .NET MAUI | All my mobile practice tasks in one app |
+| 🤖 [Arduino-Robotics](https://github.com/AnastasiiaRadasheva/Arduino-Robotics) | Arduino · C++ | 8 hardware projects with demo videos |
+| 📐 [FunctionAnalyzer](https://github.com/AnastasiiaRadasheva/FunctionAnalyzer) | ASP.NET Core MVC | Derivatives, extrema and graphs |
+| 🐍 [Snake](https://github.com/AnastasiiaRadasheva/Snake) | C# · .NET 8 | Console Snake game |
+| 🔌 [games-api](https://github.com/AnastasiiaRadasheva/games-api) | Node.js · Express | REST API for games |
 
 ---
 
